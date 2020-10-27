@@ -1,9 +1,16 @@
-.red {
-    color: red;
-    font-size: 100px;
-}
-
 #blue {
     color: blue;
-    font-size: 100px;
+    background-color: cyan;
+    font-size: 10px;
+}
+
+#red {
+    color: blue;
+    background-color: burlywood;
+    font-size: 25px;
+}
+#green {
+    color: blue;
+    background-color: coral;
+    font-size: 25px;
 }
